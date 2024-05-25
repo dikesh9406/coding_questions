@@ -1,0 +1,3 @@
+npm run install-dependencies
+
+bivash@bivash-HP-Z240-Tower-Workstation:~/Desktop/gail_project_4$ 
